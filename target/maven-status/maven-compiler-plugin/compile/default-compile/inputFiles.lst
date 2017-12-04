@@ -1,0 +1,13 @@
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/service/IProjectService.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/service/TaxonomyServiceImpl.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/util/CustomErrorType.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/model/Project.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/EMBLGenomeStudy.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/configuration/JpaConfiguration.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/controller/RestApiController.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/controller/AppController.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/model/Taxonomy.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/service/ITaxonomyService.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/service/ProjectServiceImpl.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/repositories/IProjectRepository.java
+/Users/achhipa/Downloads/EMBL2CRUDApplicationExample/src/main/java/com/embl/repositories/ITaxonomyRepository.java

@@ -1,0 +1,60 @@
+
+body, #mainWrapper {
+	height: 100%;
+	background-color:rgb(245, 245, 245);
+}
+
+body, .form-control{
+	font-size:12px!important;
+}
+
+.floatRight{
+	float:right;
+	margin-right: 18px;
+}
+
+.btn-float-right{
+	float:right;
+}
+
+.btn-float-left{
+	float:left;
+}
+
+.has-error{
+	color:red;
+}
+
+.generic-container {
+  width:97%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #EAE7E7;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 0 30px black;
+}
+
+.generic-container-2 {
+  width:80%;
+  margin-left: 150px;
+  margin-right: 240px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  padding: 20px;
+  background-color: #EAE7E7;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 0 30px black;
+}
+
+.custom-width {
+    width: 80px !important;
+}
+
+.btn-right-margin{
+	margin-right: 10px !important;
+}

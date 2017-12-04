@@ -1,0 +1,14 @@
+com/embl/service/TaxonomyServiceImpl.class
+com/embl/controller/RestApiController$1.class
+com/embl/configuration/JpaConfiguration.class
+com/embl/service/ProjectServiceImpl.class
+com/embl/EMBLGenomeStudy.class
+com/embl/repositories/ITaxonomyRepository.class
+com/embl/controller/AppController.class
+com/embl/service/ITaxonomyService.class
+com/embl/util/CustomErrorType.class
+com/embl/service/IProjectService.class
+com/embl/model/Project.class
+com/embl/controller/RestApiController.class
+com/embl/repositories/IProjectRepository.class
+com/embl/model/Taxonomy.class
