@@ -15,10 +15,10 @@ import org.springframework.web.client.RestTemplate;
 import com.embl.model.Project;
 import com.embl.model.Taxonomy;
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class EMBLGenomeStudy {
+public class EMBLGenomeStudyTest {
 
 	@Test
-	public void T1_getAllProjects() {
+	public void Test1_getAllProjects() {
 		HttpHeaders headers = new HttpHeaders();
 		headers.setContentType(MediaType.APPLICATION_JSON);
         RestTemplate restTemplate = new RestTemplate();
@@ -32,7 +32,7 @@ public class EMBLGenomeStudy {
     }
 	
 	@Test
-    public void T2_createStudy() {    	
+    public void Test2_createStudy() {    	
     	HttpHeaders headers = new HttpHeaders();
 		headers.setContentType(MediaType.APPLICATION_JSON);
 	    RestTemplate restTemplate = new RestTemplate();
@@ -55,7 +55,7 @@ public class EMBLGenomeStudy {
     }
 	
 	@Test
-    public void T3_getStudy() {
+    public void Test3_getStudy() {
     	HttpHeaders headers = new HttpHeaders();
     	headers.setContentType(MediaType.APPLICATION_JSON);
         RestTemplate restTemplate = new RestTemplate();
@@ -68,7 +68,7 @@ public class EMBLGenomeStudy {
 	
     
 	@Test
-    public void T4_updateStudy() {
+    public void Test4_updateStudy() {
     	HttpHeaders headers = new HttpHeaders();
     	headers.setContentType(MediaType.APPLICATION_JSON);
         RestTemplate restTemplate = new RestTemplate();
@@ -86,7 +86,7 @@ public class EMBLGenomeStudy {
     }
     
 	@Test
-    public void T5_deleteStudy() {
+    public void Test5_deleteStudy() {
     	HttpHeaders headers = new HttpHeaders();
     	headers.setContentType(MediaType.APPLICATION_JSON);
         RestTemplate restTemplate = new RestTemplate();
